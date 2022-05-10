@@ -1,0 +1,65 @@
+[
+	{
+		"language": "Python",
+		"nombrePost": 60,
+		"dateCreation": 1991,
+		"nombreCommunaute": 10.1,
+		"typetechnologie":"language"
+	},
+	{
+		"language": "angular",
+		"nombrePost": 81,
+		"dateCreation": 2016,
+		"nombreCommunaute": 3,
+		"typetechnologie": "framework"
+	},
+	{
+		"language": "java script",
+		"nombrePost": 33,
+		"dateCreation": 1995,
+		"nombreCommunaute": 13.8,
+		"typetechnologie": "language"
+	},
+	{
+		"language": "JAVA EE", 
+		"nombrePost": 54.21,
+		"dateCreation": 2007,
+		"nombreCommunaute": 15,
+		"typetechnologie": "framework"
+	},
+	{
+		"language": "C#",
+		"nombrePost": 41.78,
+		"dateCreation": 2003,
+		"nombreCommunaute": 5,
+		"typetechnologie": "language"
+	},
+	{
+		"language": "Android",
+		"nombrePost": 41.78,
+		"dateCreation": 2008,
+		"nombreCommunaute": 7,
+		"typetechnologie": "framework"
+	},
+	{
+		"language": "flutter",
+		"nombrePost": 41.78,
+		"dateCreation": 2017,
+		"nombreCommunaute": 4,
+		"typetechnologie": "framework"
+	},
+	{
+		"language": ".Net Core", 
+		"nombrePost": 41.78,
+		"dateCreation": 2016,
+		"nombreCommunaute": 8,
+		"typetechnologie": "framework"
+	},
+	{	
+		"language": "Laravel", 
+		"nombrePost": 41.78,
+		"dateCreation": 2011,
+		"nombreCommunaute": 6.5,
+		"typetechnologie": "framework"
+	}
+]
