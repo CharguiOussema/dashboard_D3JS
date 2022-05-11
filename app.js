@@ -303,7 +303,7 @@ async function getDataFromJson() {
             .attr('y', margin.y / 2)
             .attr('class', 'title')
             .attr('text-anchor', 'middle')
-            .text('les poste actuelle pour les technologies')
+            .text('Proportions des postes actuelles des technologies')
         //End Top Title
 
         const radius = (width < height) ? width / 2 : height / 2;
